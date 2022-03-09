@@ -4,7 +4,7 @@
 
 Instructor: [Kathryn Hodge](https://www.linkedin.com/learning/instructors/kathryn-hodge?u=4226722)
 
-![picture alt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.STtkVBn8Iu6FQtzoU__2IQHaEK%26pid%3DA)
+![picture alt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-1_IMIRP7sSE%2FWiycSW1r8PI%2FAAAAAAAAAcQ%2FCdYJmO67XUg7VkFkty4CQysYanZOomAcgCLcBGAs%2Fs1600%2FObject-Oriente-Programming-Explained-With-Java-Examples-Using-Netbeans.jpg&f=1&nofb=1)
 
 ## Course Description:
 
