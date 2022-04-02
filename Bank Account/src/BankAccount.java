@@ -23,7 +23,7 @@ public class BankAccount {
     public String getOwner() {
         return owner;
     }
-    //    static methods
+//    static methods
 
 
 //    non-static methods
@@ -60,7 +60,8 @@ public class BankAccount {
             System.out.println("********************************");
         }
         else{
-            System.out.println("I'm sorry but something went wrong. Check your Account id and make sure you have enough funds in your account.");
+            System.out.println("I'm sorry but something went wrong. Withdrawal failed. \n Your balance is " + getBalance() + ".");
+            System.out.println("Requested Amount: " + withdrawal);
         }
     }
 

@@ -11,7 +11,7 @@ public class Tree {
     TreeType treeType;
 
     //    STATIC attribute (class based attribute, not instance based)
-    static Color TRUNK_COLOR = new Color(233, 3, 0);
+    static Color TRUNK_COLOR = new Color(179, 71, 70);
 
     //    constructor
     Tree(double heightFt, double trunkDiameterInches, TreeType treeType, String nickName){
